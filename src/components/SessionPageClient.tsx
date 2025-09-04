@@ -2,7 +2,7 @@
 
 import { useSearchParams, useRouter } from 'next/navigation';
 import Image from 'next/image';
-import { X, Loop } from 'lucide-react';
+import { X, Repeat } from 'lucide-react';
 import { useState } from 'react';
 
 import type { Mood, Theme } from '@/lib/types';
@@ -52,7 +52,7 @@ export default function SessionPageClient() {
 
       <div className="absolute top-4 right-4 sm:top-6 sm:right-6 flex items-center gap-4">
         <div className="flex items-center space-x-2 rounded-full bg-black/30 p-2 pr-4 backdrop-blur-sm">
-          <Loop className="h-5 w-5 text-white" />
+          <Repeat className="h-5 w-5 text-white" />
           <Label htmlFor="loop-switch" className="text-white font-medium">Loop</Label>
           <Switch
             id="loop-switch"
