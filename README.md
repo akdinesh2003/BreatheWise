@@ -2,8 +2,6 @@
 
 BreatheWise is a minimalist micro-meditation app designed to bring moments of calm and focus to your day. Leveraging the power of generative AI, it creates personalized meditation experiences with guided breathing exercises, mood-based microfiction, and serene background themes.
 
-![BreatheWise Screenshot](https://storage.googleapis.com/aip-dev-images/breathewise-screenshot.png)
-
 ## ✨ Features
 
 -   **Personalized Sessions**: Choose your mood and visual theme to create a unique 30-second meditation session.
@@ -91,6 +89,4 @@ npm start
 
 ## ✍️ Author
 
-Created by **BreatheWise**.
-- [GitHub](https://github.com/)
-
+AK DINESH   https://github.com/akdinesh2003
